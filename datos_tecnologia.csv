@@ -1,0 +1,51 @@
+ID_Pedido,Fecha,Cliente,Producto,Cantidad,Precio_Unitario,Pais
+P001,2026-05-01,  carlos mendoza  ,Laptop Pro,1,1200,España
+P002,02/05/2026,ana maria silva,Smartphone X,null,800,Mexico
+P003,2026-05-03,LUIS GONZALEZ,Teclado Mecanico,2,150,Colombia
+P004,04-05-2026,marta gomez,Monitor 4K,1,400,ESPAÑA
+P005,2026/05/05,Jorge Ramires,Zapatillas Run,null,120,Argentina
+P001,2026-05-01,  carlos mendoza  ,Laptop Pro,1,1200,España
+P006,06-05-2026,sofia castro,Mouse Inalambrico,3,50,MEXICO
+P007,2026-05-07,Pedro Infante,Smartphone X,1,800,Colombia
+P008,08/05/2026, Lucia Fernandez ,Teclado Mecanico,null,150,España
+P009,2026-05-09,RAUL BENITEZ,Monitor 4K,2,400,Chile
+P010,10-05-2026,Elena Belmonte,Laptop Pro,1,1200,Mexico
+P011,2026/05/11,diego maradona,Zapatillas Run,2,120,Argentina
+P012,12/05/2026,Andres Calamaro,Mouse Inalambrico,4,50,Chile
+P013,2026-05-13,  Maria Becerra  ,Laptop Pro,1,1200,España
+P014,14-05-2026,JUAN PEREZ,Smartphone X,2,800,MEXICO
+P003,2026-05-03,LUIS GONZALEZ,Teclado Mecanico,2,150,Colombia
+P015,2026/05/15,Karina Tejeda,Monitor 4K,1,400,Colombia
+P016,16-05-2026,ricardo darin,Zapatillas Run,1,120,Argentina
+P017,2026-05-17,Natalia Oreiro,Mouse Inalambrico,null,50,Chile
+P018,18/05/2026, Charly Garcia ,Laptop Pro,1,1200,España
+P019,2026-05-19,GUSTAVO CERATI,Smartphone X,1,800,Argentina
+P020,20-05-2026,shakira mebarak,Teclado Mecanico,2,150,Colombia
+P021,2026/05/21,Fito Paez,Monitor 4K,null,400,Chile
+P022,22/05/2026,Mon Laferte,Mouse Inalambrico,2,50,Mexico
+P023,2026-05-23,  Luis Miguel  ,Zapatillas Run,1,120,España
+P010,10-05-2026,Elena Belmonte,Laptop Pro,1,1200,Mexico
+P024,24-05-2026,ALEJANDRO SANZ,Laptop Pro,2,1200,España
+P025,2026/05/25,paulina rubio,Smartphone X,1,800,Mexico
+P026,26-05-2026,Daddy Yankee,Teclado Mecanico,3,150,Chile
+P027,2026-05-27,Don Omar,Monitor 4K,1,400,Colombia
+P028,28/05/2026, Bad Bunny ,Zapatillas Run,2,120,Argentina
+P029,2026-05-29,ROSALIA VILA,Mouse Inalambrico,null,50,España
+P030,30-05-2026,j balvin,Laptop Pro,1,1200,Mexico
+P031,2026/05/31,Maluma Baby,Smartphone X,2,800,Colombia
+P032,01/06/2026,Ozuna Simpson,Teclado Mecanico,1,150,Chile
+P033,2026-06-02,  Anuel AA  ,Monitor 4K,2,400,Argentina
+P018,18/05/2026, Charly Garcia ,Laptop Pro,1,1200,España
+P034,03-06-2026,karol g,Zapatillas Run,1,120,Colombia
+P035,2026/06/04,Nicky Jam,Mouse Inalambrico,3,50,Mexico
+P036,05/06/2026,Camilo Echeverry,Laptop Pro,null,1200,España
+P037,2026-06-06,EVALUNA MONTANER,Smartphone X,1,800,Colombia
+P038,07-06-2026,christian nodal,Teclado Mecanico,2,150,Mexico
+P039,2026/06/08,Sebastian Yatra,Monitor 4K,1,400,Chile
+P040,09/06/2026, Tini Stoessel ,Zapatillas Run,2,120,Argentina
+P041,2026-06-10,DADDY YANKEE,Teclado Mecanico,3,150,Chile
+P042,11-06-2026,becky g,Mouse Inalambrico,1,50,Mexico
+P043,2026/06/12,Natti Natasha,Laptop Pro,2,1200,Colombia
+P044,13/06/2026,Enrique Iglesias,Smartphone X,null,800,España
+P045,2026-06-14,CHAYANNE FIGUEROA,Teclado Mecanico,1,150,Argentina
+P046,15-06-2026,luis fonsi,Monitor 4K,2,400,Chile
